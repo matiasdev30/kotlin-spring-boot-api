@@ -3,7 +3,13 @@
 Kotlin Spring Boot Web Application
 ==================================
 
-![Kotlin](https://kotlinlang.org/assets/images/logos/kotlin/kotlin.svg) ![Spring Boot](https://spring.io/img/spring-logo.png) ![H2 Database](https://h2database.com/html/images/h2.png) ![Thymeleaf](https://www.thymeleaf.org/img/thymeleaf_logo.png) ![Jackson](https://www.baeldung.com/wp-content/uploads/2019/10/JSON-Jackson.png) ![Lombok](https://projectlombok.org/images/lombok.png)
+![Kotlin](https://kotlinlang.org/assets/images/logos/kotlin/kotlin.svg) 
+![Spring Boot](https://spring.io/img/spring-logo.png) 
+![H2 Database](https://h2database.com/html/images/h2.png) 
+![Thymeleaf](https://www.thymeleaf.org/img/thymeleaf_logo.png) 
+![Jackson](https://www.baeldung.com/wp-content/uploads/2019/10/JSON-Jackson.png) 
+![Lombok](https://projectlombok.org/images/lombok.png)
+
 
 Descrição
 ---------
