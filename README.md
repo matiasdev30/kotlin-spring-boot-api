@@ -1,15 +1,5 @@
-  Kotlin Spring Boot Web Application body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; } h1, h2 { color: #333; } pre { background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; overflow-x: auto; } code { background-color: #f4f4f4; border-radius: 3px; padding: 2px 4px; font-size: 90%; } a { color: #007bff; text-decoration: none; } a:hover { text-decoration: underline; } .logo { width: 100px; height: auto; margin-right: 10px; }
-
 Kotlin Spring Boot Web Application
 ==================================
-
-![Kotlin]([Uploading images.jpeg…])![Uploading images.jpeg…]()
-
-![H2 Database](https://h2database.com/html/images/h2.png) 
-![Thymeleaf](https://www.thymeleaf.org/img/thymeleaf_logo.png) 
-![Jackson](https://www.baeldung.com/wp-content/uploads/2019/10/JSON-Jackson.png) 
-![Lombok](https://projectlombok.org/images/lombok.png)
-
 
 Descrição
 ---------
