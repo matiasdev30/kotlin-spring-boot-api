@@ -1,0 +1,9 @@
+2024-07-18 15:48:00.626175+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS messages ([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS messages ( [42001-224]
+2024-07-18 17:08:51.749787+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+select m1_0.id,m1_0.content from message m1_0 [42102-224]
+2024-07-19 03:35:31.015761+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS messages ( id VARCHAR(60) PRIMARY KEY, name VARCHAR NOT NULL [*]email VARCHAR NOT NULL )"; expected "DEFAULT, GENERATED, ON UPDATE, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE IF NOT EXISTS messages ( id VARCHAR(60) PRIMARY KEY, name VARCHAR NOT NULL email VARCHAR NOT NULL ) [42001-224]
