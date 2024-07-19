@@ -1,6 +1,6 @@
 # Kotlin Spring Boot Web Application
 
-![Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/7e/Kotlin_Icon.png) ![Spring Boot](https://spring.io/img/spring-logo.png) ![H2 Database](https://h2database.com/html/images/h2.png) ![Thymeleaf](https://www.thymeleaf.org/img/thymeleaf_logo.png) ![Jackson](https://www.baeldung.com/wp-content/uploads/2019/10/JSON-Jackson.png) ![Lombok](https://projectlombok.org/images/lombok.png)
+![Kotlin](https://kotlinlang.org/assets/images/logos/kotlin/kotlin.svg) ![Spring Boot](https://spring.io/img/spring-logo.png) ![H2 Database](https://h2database.com/html/images/h2.png) ![Thymeleaf](https://www.thymeleaf.org/img/thymeleaf_logo.png) ![Jackson](https://www.baeldung.com/wp-content/uploads/2019/10/JSON-Jackson.png) ![Lombok](https://projectlombok.org/images/lombok.png)
 
 ## Descrição
 
@@ -33,21 +33,3 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/matiasdev30/kotlin-spring-web-app.git
-Navegue até o diretório do projeto:
-
-bash
-Copiar código
-cd kotlin-spring-web-app
-Compile e execute a aplicação:
-
-bash
-Copiar código
-./mvnw spring-boot:run
-Código
-O código-fonte completo está disponível no GitHub. Sinta-se à vontade para explorar, contribuir ou adaptar o projeto conforme necessário.
-
-Contribuição
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Agradecemos suas contribuições!
-
-Licença
-Este projeto é licenciado sob a MIT License.
